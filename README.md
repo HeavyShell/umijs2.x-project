@@ -1,5 +1,5 @@
 ### Demo地址：
-http://umi.ixiewei.com
+http://umi2x.ixiewei.com
 
 ### umiJS之2.X版本项目，源自 https://github.com/HeavyShell/umijs-project 升级umi版本
 
